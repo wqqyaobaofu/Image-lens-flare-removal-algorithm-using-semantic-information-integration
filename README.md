@@ -1,4 +1,4 @@
-# Image-lens-flare-removal-algorithm-with-semantic-information-fusion
+# Image lens flare removal algorithm with semantic information fusion
 ## Download datasets
 
 
